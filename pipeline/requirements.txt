@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+math
+random
+sklearn
+nltk
+plotly
